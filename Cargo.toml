@@ -1,0 +1,8 @@
+[package]
+name = "choose_your_own"
+version = "0.1.0"
+authors = ["zmiranda <exsmiley@gmail.com>"]
+
+[dependencies]
+rocket = "0.3.14"
+rocket_codegen = "0.3.14"
